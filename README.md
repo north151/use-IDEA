@@ -1,4 +1,4 @@
-# 史上最简单的 IntelliJ IDEA 教程
+# IntelliJ IDEA 教程
 
 ![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)
 ![last commit](https://img.shields.io/github/last-commit/guobinhit/intellij-idea-tutorial.svg)
